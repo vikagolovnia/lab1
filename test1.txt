@@ -1,0 +1,4 @@
+This is a test text to check if my program correctly identifies words with double consonant letters. 
+Words like "programming", "assessment", "address", "committee", "success", "accommodation", etc., contain double consonant letters which should be detected by my program. 
+Ensure that the program accurately captures these words and displays them as expected.
+Let's check out word school.
